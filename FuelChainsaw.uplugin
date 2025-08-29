@@ -1,0 +1,26 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.1.0",
+	"FriendlyName": "Fuel Chainsaw",
+	"Description": "A fuel-powered chainsaw.",
+	"Category": "Modding",
+	"CreatedBy": "Th3Fanbus",
+	"CreatedByURL": "https://github.com/Th3Fanbus",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "https://discord.gg/xkVJ73E",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Plugins": [
+		{
+			"Name": "SML",
+			"Enabled": true,
+			"SemVersion": "^3.11.1"
+		}
+	],
+	"SemVersion": "1.1.0",
+	"GameVersion": ">=416835"
+}
